@@ -21,6 +21,7 @@
 		007CED93187BAB09006D1693 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 007CED75187BAB09006D1693 /* UIKit.framework */; };
 		007CED9B187BAB0A006D1693 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 007CED99187BAB0A006D1693 /* InfoPlist.strings */; };
 		007CED9D187BAB0A006D1693 /* p225AnimationViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 007CED9C187BAB0A006D1693 /* p225AnimationViewTests.m */; };
+		007CEDA7187BAB14006D1693 /* apple.png in Resources */ = {isa = PBXBuildFile; fileRef = 007CEDA6187BAB14006D1693 /* apple.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		007CED98187BAB0A006D1693 /* p225AnimationViewTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "p225AnimationViewTests-Info.plist"; sourceTree = "<group>"; };
 		007CED9A187BAB0A006D1693 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		007CED9C187BAB0A006D1693 /* p225AnimationViewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = p225AnimationViewTests.m; sourceTree = "<group>"; };
+		007CEDA6187BAB14006D1693 /* apple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = apple.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 		007CED65187BAB09006D1693 = {
 			isa = PBXGroup;
 			children = (
+				007CEDA6187BAB14006D1693 /* apple.png */,
 				007CED77187BAB09006D1693 /* p225AnimationView */,
 				007CED96187BAB09006D1693 /* p225AnimationViewTests */,
 				007CED70187BAB09006D1693 /* Frameworks */,
@@ -230,6 +233,7 @@
 			files = (
 				007CED8A187BAB09006D1693 /* Images.xcassets in Resources */,
 				007CED7C187BAB09006D1693 /* InfoPlist.strings in Resources */,
+				007CEDA7187BAB14006D1693 /* apple.png in Resources */,
 				007CED85187BAB09006D1693 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
